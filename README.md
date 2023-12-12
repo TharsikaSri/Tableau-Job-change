@@ -4,7 +4,7 @@
 The aim of the UK Employment project is to clean the data, estabilish a connection between the tables and create dashboards and a story using the Tableau application.
 
 <div align="center"> <h3 align="center"> 🔢 Dataset 🔢 </h3> </div>
-The dataset used is called "Dataset- EMSI_JobChange_UK.xlsx". It contains 2 tables with information on the city, industry, job change, the change percentage and more.
+The dataset used is called "Dataset- EMSI_JobChange_UK.xlsx". It contains 2 tables with information on the city, industry, job change, the change percentage and more. 
 
 <div align="center"> <h3 align="center"> 📂 Repository Sections 📂 </h3> </div> 
 - Dataset- EMSI_JobChange_UK.xlsx -> the file contains the UK Employment dataset in an excel file <br>
